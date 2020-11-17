@@ -6,7 +6,7 @@ This is the first prototype of a v/oct VCO I designed. It has a sawtooth output 
 
 New version without linear fm (and maybe without sync) but with a voltage controlled pwm option is coming spring 2021 or so...
 
-Pitch tracking is not super precise but works fine over a few octaves with some cents of tuning error (Please see this thread for more information. After a more proper calibration I get a bit better results than the ones showed here: https://electro-music.com/forum/viewtopic.php?p=446122#446122)
+Pitch tracking is quite precise over a few octaves with some cents of tuning error and very precise over one or two octaves (Please see this thread for more information: https://electro-music.com/forum/viewtopic.php?p=446122#446122)
 
 In order to get okay tracking it is crucial to use Philips or NXP branded 4046 ics. TI and other brands will not work well.
 
