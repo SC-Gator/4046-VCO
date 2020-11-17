@@ -16,6 +16,10 @@ In order to get okay tracking it is crucial to use Philips or NXP branded 4046 i
 
 ![BOARD](https://raw.githubusercontent.com/diysynth/4046-VCO/main/4046vco.jpg)
 
+## Schematics
+
+![BOARD](https://raw.githubusercontent.com/diysynth/4046-VCO/main/vco4046schematic_406.png)
+
 *Sebastian Jazura, 2020, CC BY-SA 3.0*
 
 *Build at your own risk, I give no warranties...*
