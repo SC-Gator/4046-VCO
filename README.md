@@ -2,7 +2,7 @@
 A v/oct VCO based on the CD4046 ic
 
 ## Description
-This is the first prototype of a v/oct VCO I designed. It has a sawtooth output and a squarewave output that is one octave lower and can be used as sub oscillator. The main functions are working well. However there are some issues with the fm input, also the sync input doesn't work as expected. The ring modulation just effects the squarewave output and works well.
+This is the first prototype of a v/oct VCO I designed. It has a sawtooth output and a squarewave output that is one octave lower and that can be used as sub oscillator. The main functions are working well. However there are some issues with the fm input, also the sync input doesn't work as expected. The ring modulation just effects the squarewave output and works well.
 
 New version without linear fm (and maybe without sync) but with a voltage controlled pwm option is coming spring 2021 or so...
 
